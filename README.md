@@ -1,12 +1,26 @@
-## Udemy-JSEJQPI
+## Udemy-TC2020FDBWD1
 <!-- PROJECT SHIELDS -->
 ![VIM][vim-shield]
 ![Udemy][udemy-shield]
 ![Flutter][flutter-shield]
 
+Project available to access at: https://nitaicharan.github.io/Udemy-TC2020FDBWD1/
+
+## Deploy
+```
+ng build
+cp build/web/index.html build/web/404.html
+
+git add -A
+git commit -m <titule> <message>
+git push origin <branch>
+git push --delete origin gh-pages
+git subtree push --prefix build/web/ origin gh-pages
+```
+
 ## About course
 The Complete 2020 Flutter Development Bootcamp with Dart
-<br>Officially created in collaboration with the Google Flutter team. 
+<br>Officially created in collaboration with the Google Flutter team.
 
 URL: https://www.udemy.com/course/flutter-bootcamp-with-dart/
 
