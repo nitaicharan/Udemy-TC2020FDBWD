@@ -8,7 +8,7 @@ Project available to access at: https://nitaicharan.github.io/Udemy-TC2020FDBWD1
 
 ## Deploy
 ```
-ng build
+flutter build web
 cp build/web/index.html build/web/404.html
 
 git add -A
