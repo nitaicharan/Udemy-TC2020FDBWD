@@ -10013,7 +10013,7 @@ rT:function(){var u=0,t=P.a1(-1),s,r,q,p,o,n,m,l,k,j
 var $async$rT=P.X(function(a,b){if(a===1)return P.Z(b,t)
 while(true)switch(u){case 0:u=2
 return P.a5(P.rW(),$async$rT)
-case 2:s=L.OG("I am Rich",null)
+case 2:s=L.OG("I am rich",null)
 r=C.jB.i(0,900)
 if($.aJ==null){q=H.b([],[N.eD])
 p=-1
